@@ -66,6 +66,7 @@ theme_settings:
 
   # Post navigation
   post_navigation: true
+  site_navigation_sort: ["a", "b"]
 
 # PAGINATION
 paginate: 5
