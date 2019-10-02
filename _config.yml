@@ -14,7 +14,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <p>TreeBial's Blog</p>
-  header_text_feature_image:
+  header_text_feature_image: assetsassets/img/sample_feature_img_3.png
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
